@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking python job opportunities <br>👯 I’m looking to collaborate on Open Sources<br>🤝 I’m looking for help with Python Performances<br>🌱 I'm striving to become more advanced in the Django & Dev-Ops<br>💬 Ask me about Python & Django and Engineering stuff<br>⚡ How to reach me : https://www.linkedin.com/in/mojtaba-zolfaghari-4331a9198
+👯 I’m looking to collaborate on Open Sources<br>🤝 I’m looking for help with Python Performances<br>🌱 I'm striving to become more advanced in the Django & Dev-Ops<br>💬 Ask me about Python & Django and Engineering stuff<br>⚡ How to reach me : https://www.linkedin.com/in/mojtaba-zolfaghari-4331a9198
 
 
 ## 🌐 Socials:
